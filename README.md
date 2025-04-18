@@ -1,38 +1,42 @@
-# 🍪 Cookie Store App
+# 🧠 Personality Quiz App
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange?style=for-the-badge&logo=swift)
 ![Xcode](https://img.shields.io/badge/Xcode-UIKit-blue?style=for-the-badge&logo=xcode)
-![Data](https://img.shields.io/badge/Data-Hardcoded-lightgrey?style=for-the-badge)
+![Pattern](https://img.shields.io/badge/Architecture-MVC-informational?style=for-the-badge)
 
-This is my Midterm Project for Mobile App Development (MAP523NSC) at Seneca. It's a fun little iOS app where users can browse, buy cookies, and view their purchase history. Each user logs in and sees only their own orders.
+This is a fun quiz app I built for Assignment 2 in my iOS Development course (MAP523NSC, Winter 2025). The app uses a guided quiz format to help users discover their personality type based on their answers.
 
 ---
 
 ## 🔍 Features
 
-- 🛒 **Cookie Browser**
-  - A list of cookies with images, names, and prices
-  - Each cookie can have multiple model types (e.g., "Milk Chocolate", "Dark Chocolate")
+- 🔁 **Guided Personality Quiz**
+  - Users go through a series of questions with custom UI components
+  - Added bonus questions: favorite drink, meal of the day, and programming language
 
-- 📦 **Purchase View**
-  - Users can select cookie type and quantity
-  - A Buy button processes the purchase
+- 🚀 **Multiple MVC Views**
+  - Each quiz screen is modular and follows MVC structure
+  - Segues are used for smooth navigation between views
 
-- 📋 **Sales History**
-  - Displays all past orders by the currently logged-in user
-  - Includes product name, selected type, quantity, and purchase date
+- 🧩 **Custom Layout**
+  - All screens use Auto Layout so they look good across devices
+  - UI elements like buttons, segmented controls, and sliders are chosen based on the question
 
-- 👤 **Multi-User Login**
-  - Users can log in to see their own order history
-  - Each user has a unique purchase record
+- 📊 **Quiz Results**
+  - Final personality type is calculated based on user choices
+  - Results screen shows summary and stores that session’s results (non-persistent)
+
+- 🗂 **Results Tab**
+  - Integrated Tab Bar Controller
+  - “Results” tab shows all outcomes from the current session (no storage after app close)
 
 ---
 
 ## 📸 Screenshots
 
-| Cookie List | Purchase Screen | Sales History | Login |
-|-------------|------------------|----------------|--------|
-| ![List](https://via.placeholder.com/150x300.png?text=Cookie+List) | ![Buy](https://via.placeholder.com/150x300.png?text=Purchase+View) | ![History](https://via.placeholder.com/150x300.png?text=Sales+History) | ![Login](https://via.placeholder.com/150x300.png?text=Login+Screen) |
+| Quiz Start | Question Example | Results Tab |
+|------------|------------------|-------------|
+| ![Start](https://via.placeholder.com/150x300.png?text=Quiz+Start) | ![Question](https://via.placeholder.com/150x300.png?text=Question+Screen) | ![Results](https://via.placeholder.com/150x300.png?text=Quiz+Results) |
 
 ---
 
@@ -40,39 +44,36 @@ This is my Midterm Project for Mobile App Development (MAP523NSC) at Seneca. It'
 
 - **Language**: Swift
 - **Framework**: UIKit
-- **Views**: Table View, Picker View
-- **Storage**: Hardcoded sample data (no database)
 - **Architecture**: MVC
-- **Tools**: Xcode asset catalog for images
+- **UI Features**: Auto Layout, Tab Bar Controller, Segues
+- **Storage**: No persistence (results live only during session)
 
 ---
 
-## 🚀 To Run It
+## 🚀 How to Run
 
-1. Download the project and open it in Xcode
-2. All cookie images are added via asset catalog
-3. No API keys needed — everything is local
-4. Run the app on Simulator or your device
+1. Clone the repo and open in Xcode
+2. Build and run on a simulator or real device
+3. No need for an API key or external data – all quiz logic is internal
 
 ---
 
 ## 🎥 Demo Video
 
-Watch the app in action here:  
-▶️ [https://youtu.be/sAhv4N-Fskw]
+▶️ [Watch the unlisted demo here](#) *(Insert your YouTube link)*
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Kate de Leon**, a student at Seneca Polytechnic.  
-This app was built as part of my midterm project, and I really enjoyed working on it from start to finish.
+Hey! I’m **Kate de Leon**, a Computer Programming student at Seneca Polytechnic.  
+This was one of the most fun projects for me because I got to design my own questions and logic.
 
-GitHub: [@yourusername](https://github.com/keirisa)
+GitHub: [@keirisa](https://github.com/keirisa)
 
 ---
 
 ## 📎 Note
 
-This app was created for academic use only. Please don’t reuse or share this project online.  
-Seneca’s academic integrity policy applies to all submitted work.
+This project is for educational purposes only and follows the guidelines of Seneca’s Academic Integrity policy.  
+Please don’t copy or repost this project online.
