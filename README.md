@@ -59,7 +59,7 @@ This is my Midterm Project for Mobile App Development (MAP523NSC) at Seneca. It'
 ## 🎥 Demo Video
 
 Watch the app in action here:  
-▶️ [Insert Unlisted YouTube Link Here]
+▶️ [https://youtu.be/sAhv4N-Fskw]
 
 ---
 
