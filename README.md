@@ -49,17 +49,9 @@ This is a fun quiz app I built for Assignment 2 in my iOS Development course (MA
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repo and open in Xcode
-2. Build and run on a simulator or real device
-3. No need for an API key or external data – all quiz logic is internal
-
----
-
 ## 🎥 Demo Video
 
-▶️ [Watch the unlisted demo here](#) *(Insert your YouTube link)*
+▶️ [Watch the unlisted demo here](https://youtu.be/e690eu3gDag?feature=shared) 
 
 ---
 
