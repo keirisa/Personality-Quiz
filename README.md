@@ -36,9 +36,7 @@ This is a fun quiz app I built for Assignment 2 in my iOS Development course (MA
 
 | Quiz Start | Question Example | Results Tab |
 |------------|------------------|-------------|
-| ![Start]([https://via.placeholder.com/150x300.png?text=Quiz+Start](https://github.com/user-attachments/assets/fcca581e-4094-4ab7-b258-d546459b6116)) | ![Question](https://via.placeholder.com/150x300.png?text=Question+Screen) | ![Results](https://via.placeholder.com/150x300.png?text=Quiz+Results) |
-![pquiz1](https://github.com/user-attachments/assets/475c8fb1-bf15-43e6-9ee8-8800fe49dd71) 
-![q2pquiz](https://github.com/user-attachments/assets/bf1f702b-2dea-469b-81de-c2f241ce8010)
+| ![Start](https://github.com/user-attachments/assets/475c8fb1-bf15-43e6-9ee8-8800fe49dd71) | ![Question](https://github.com/user-attachments/assets/bf1f702b-2dea-469b-81de-c2f241ce8010) | ![Results](https://github.com/user-attachments/assets/f8fa2d79-72f4-421d-b5fe-3c0ed86b76b8) |
 
 ---
 ## 🧰 Tech Stack
