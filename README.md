@@ -37,8 +37,9 @@ This is a fun quiz app I built for Assignment 2 in my iOS Development course (MA
 | Quiz Start | Question Example | Results Tab |
 |------------|------------------|-------------|
 | ![Start]([https://via.placeholder.com/150x300.png?text=Quiz+Start](https://github.com/user-attachments/assets/fcca581e-4094-4ab7-b258-d546459b6116)) | ![Question](https://via.placeholder.com/150x300.png?text=Question+Screen) | ![Results](https://via.placeholder.com/150x300.png?text=Quiz+Results) |
----
+![pquiz1](https://github.com/user-attachments/assets/475c8fb1-bf15-43e6-9ee8-8800fe49dd71) 
 
+---
 ## 🧰 Tech Stack
 
 - **Language**: Swift
